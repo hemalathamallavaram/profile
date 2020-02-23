@@ -58,7 +58,7 @@ body a:hover{
 .header-right h2 {
     font-size: 1.2em;
     color: #000;
-    background: #F3E000;
+    background: lightcoral;
     display: inline-block;
     padding: .5em 1.5em;
     position: relative;
@@ -72,7 +72,7 @@ body a:hover{
     left: 12px;
     border-style: solid;
     border-width: 10px 10px 0 10px;
-    border-color: #F3E000 transparent transparent transparent;
+    border-color: lightcoral transparent transparent transparent;
 }
 .header-right h6 {
     font-size: 1em;
@@ -108,7 +108,7 @@ ul.address li ul.address-text li a:hover{
 /*--//banner-top--*/
 /*--top-nav--*/
 .top-nav {
-    background: #008B8B;
+    background: lightcoral;
 }
 .nav > li {
     display: inline-block;
@@ -124,7 +124,7 @@ ul.nav.navbar li a {
     font-family: 'Overlock', cursive;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
-    color: #008B8B;
+    color: lightcoral;
     background: #fff;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
@@ -140,7 +140,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: lightcoral;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -154,13 +154,13 @@ p {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #008B8B;
+    border: 3px double lightcoral;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #008B8B;
+    color: lightcoral;
 }
 .about-right ul li {
     display: block;
@@ -187,7 +187,7 @@ p {
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: darkcyan;
+    background: lightcoral;
     display: inline-block;
     padding: .6em 1.2em;
     color: #fff;
@@ -203,7 +203,7 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent rgb(0, 139, 139);
+    border-color: transparent transparent transparent lightcoral;
 }
 .work-info h5 {
     font-size: 1.3em;
@@ -216,7 +216,7 @@ p {
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #008B8B;
+    background: lightcoral;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
@@ -573,8 +573,8 @@ h2.resp-accordion {
     font-size: 1.1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #008B8B;
-    border: 2px solid #008B8B;
+    background: lightcoral;
+    border: 2px solid lightcoral;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
@@ -583,7 +583,7 @@ h2.resp-accordion {
 }
 .contact-form input[type="submit"]:hover {
     background: none;
-    color: #008B8B;
+    color: lightcoral;
 }
 ::-webkit-input-placeholder {
 	color:#fff !important;
